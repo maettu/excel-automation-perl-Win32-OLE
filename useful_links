@@ -1,0 +1,25 @@
+cheat sheet
+-----------
+http://www.tek-tips.com/faqs.cfm?fid=6715
+
+insert a row
+------------
+http://www.perlmonks.org/?node_id=882700
+
+somewhat more elaborate example
+-------------------------------
+http://www.unur.com/comp/ppp/perl-win32-ole-excel-ex1.html
+
+
+corion.net/talks/vb2perl
+
+list all properties
+-------------------
+
+http://stackoverflow.com/questions/5399589/how-can-i-programmatically-discover-a-win32ole-objects-properties-and-methods/5404271#5404271
+
+article from Perl Journal
+-------------------------
+http://search.cpan.org/dist/Win32-OLE/lib/Win32/OLE/TPJ.pod
+
+
