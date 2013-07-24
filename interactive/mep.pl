@@ -27,6 +27,7 @@ my $excel = Win32::OLE->GetActiveObject('Excel.Application') or die $!;
 # make Excel visible so we can see what we do.
 $excel->{Visible} = 1;
 
+
 my $book;
 if (-f $file_name){
     $book = $excel->Workbooks->Open($file_name);
